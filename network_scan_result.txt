@@ -1,0 +1,56 @@
+# Nmap 7.95 scan initiated Sat May 30 22:51:53 2026 as: /usr/lib/nmap/nmap --privileged -sS -oN network_scan_result.txt 10.181.212.0/24
+Nmap scan report for 10.181.212.34
+Host is up (0.0016s latency).
+Not shown: 977 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8009/tcp open  ajp13
+8180/tcp open  unknown
+MAC Address: 08:00:27:DD:1E:F8 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+Nmap scan report for 10.181.212.127
+Host is up (0.00029s latency).
+All 1000 scanned ports on 10.181.212.127 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: BC:03:58:BE:46:64 (Intel Corporate)
+
+Nmap scan report for 10.181.212.129
+Host is up (0.0027s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: A2:AA:EA:D5:2B:47 (Unknown)
+
+Nmap scan report for 10.181.212.180
+Host is up (0.0013s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+MAC Address: 08:00:27:90:39:BC (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+Nmap scan report for 10.181.212.85
+Host is up (0.0000010s latency).
+All 1000 scanned ports on 10.181.212.85 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Sat May 30 22:52:26 2026 -- 256 IP addresses (5 hosts up) scanned in 33.26 seconds
