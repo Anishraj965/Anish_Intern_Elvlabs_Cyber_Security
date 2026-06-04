@@ -5,7 +5,7 @@ Perform a basic vulnerability scan on a local machine (Kali Linux) using **Tenab
 
 ## 🛠️ Tools & Environment  
 - **Tenable Nessus Essentials** – Free vulnerability scanner (v10.8.4)  
-- **Target System** – Ubuntu 8.02 (IP `10.225.191.34`) running in VirtualBox  
+- **Target System** – Ubuntu 8.04 (IP `10.225.191.34`) running in VirtualBox  
 - **Host OS** – Windows / Linux (scanner installed on same host as target)  
 - **Scan Type** – Basic Network Scan (full system assessment)
 
