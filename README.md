@@ -7,7 +7,6 @@ Analyse the packet capture `Traffic.pcapng` using Wireshark to identify network 
 - **Wireshark** – Network protocol analyzer    
 - **Analysis Host** – Kali Linux  
 - **Firefox Browser** – Traffic Generation
-- **Chatgpt** - Analysis of the `Traffic.pcapng` and Report creation 
 
 ## 📊 Executive Summary
 
