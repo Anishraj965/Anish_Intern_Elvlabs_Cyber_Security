@@ -7,6 +7,7 @@ Analyse the packet capture `Traffic.pcapng` using Wireshark to identify network 
 - **Wireshark** – Network protocol analyzer    
 - **Analysis Host** – Kali Linux  
 - **Firefox Browser** – Traffic Generation
+- **Target Applications** – Google services, `testasp.vulnweb.com` (vulnerable test app)
 
 ## 📊 Executive Summary
 
