@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-Security%20Testing-crimson?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
+---
+
 ## 🎯 Objective
 Learn to discover open ports on devices in a local network using `nmap`, understand network exposure, and optionally analyze packet-level behavior with `wireshark`. Identify potential security risks from unnecessarily exposed services.
 
