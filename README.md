@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Internship-Ongoing-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Skills-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-Platform-blue?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge&logo=python"/>
 </p>
 
 ---
@@ -40,14 +39,15 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ## 🏆 Internship Highlights
 
-| #   | Task Title                                   | Focus Area                        | Key Tools              | Status |
-|-----|----------------------------------------------|-----------------------------------|------------------------|--------|
-| 1   | [Local Network Port Scan](#task-1-local-network-port-scan)          | Network Reconnaissance            | Nmap, Wireshark        | ✅ Completed |
-| 2   | [Phishing Email Analysis](#task-2-phishing-email-analysis)          | Social Engineering, Forensics     | Thunderbird, MXToolbox | ✅ Completed |
-| 3   | [Vulnerability Assessment](#task-3-vulnerability-assessment-project) | Vulnerability Management          | Nessus Essentials      | ✅ Completed |
-| 4   | [UFW Firewall Configuration](#task-4-ufw-firewall-configuration)    | Network Defense                   | UFW, Kali Linux        | ✅ Completed |
-| 5   | [Network Traffic Analysis](#task-5-network-traffic-analysis-with-wireshark) | Packet Analysis, Threat Detection | Wireshark              | ✅ Completed |
-| 6   | [Password Strength Evaluation](#task-6-password-strength-evaluation--security-best-practices) | Authentication, User Awareness    | Bitwarden, Security.org| ✅ Completed |
+| # | Task Title                                                                                    | Focus Area                        | Key Tools               | Badge                                                                                                                    |
+| - | --------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1 | [Local Network Port Scan](#task-1-local-network-port-scan)                                    | Network Reconnaissance            | Nmap, Wireshark         | <img src="https://img.shields.io/badge/Network%20Scan-Nmap-blue?style=flat-square&logo=wireshark" />                     |
+| 2 | [Phishing Email Analysis](#task-2-phishing-email-analysis)                                    | Social Engineering, Forensics     | Microsoft Outlook, MXToolbox  | <img src="https://img.shields.io/badge/Phishing%20Analysis-Email-red?style=flat-square&logo=gmail" />                    |
+| 3 | [Vulnerability Assessment](#task-3-vulnerability-assessment-project)                          | Vulnerability Management          | Nessus Essentials       | <img src="https://img.shields.io/badge/Vulnerability%20Scan-Nessus-orange?style=flat-square&logo=tenable" />             |
+| 4 | [UFW Firewall Configuration](#task-4-ufw-firewall-configuration)                              | Network Defense                   | UFW, Kali Linux         | <img src="https://img.shields.io/badge/Firewall-UFW-green?style=flat-square&logo=linux" />                               |
+| 5 | [Network Traffic Analysis](#task-5-network-traffic-analysis-with-wireshark)                   | Packet Analysis, Threat Detection | Wireshark               | <img src="https://img.shields.io/badge/Packet%20Analysis-Wireshark-blue?style=flat-square&logo=wireshark" />             |
+| 6 | [Password Strength Evaluation](#task-6-password-strength-evaluation--security-best-practices) | Authentication, User Awareness    | Bitwarden, Security.org | <img src="https://img.shields.io/badge/Password%20Security-Strong%20Passwords-yellow?style=flat-square&logo=lastpass" /> |
+
 
 ---
 
@@ -151,7 +151,6 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 - Phishing Email Analysis
 - Secure Authentication & Password Management
 - Technical Documentation & Reporting
-- Python Basics (in progress)
 
 ---
 
