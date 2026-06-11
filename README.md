@@ -125,10 +125,6 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### ✨ Intended Features
 
-### 🛠️ Tech Stack (Planned)
-
-### 📅 Expected Completion
-
 *To be updated after project kickoff.*
 
 ---
