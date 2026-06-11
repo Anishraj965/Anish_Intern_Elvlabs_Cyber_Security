@@ -136,8 +136,7 @@ This email exhibits **multiple classic phishing indicators**:
 
 - `sample-1001.eml` – The original phishing email (raw format)  
 - `sample_mail.png` – Screenshot of the email as displayed in Outlook  
-- `mstoolbox_analysis.png` – MXToolbox Header Analyzer output  
-- `README.md` – This analysis report  
+- `mstoolbox_analysis.png` – MXToolbox Header Analyzer output
 
 ---
 
