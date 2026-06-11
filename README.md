@@ -1,4 +1,9 @@
 # 🔍 Local Network Port Scan – Cyber Security Internship Task 1
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-blueviolet?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-royalblue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-Security%20Testing-crimson?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
 
 ## 🎯 Objective
 Learn to discover open ports on devices in a local network using `nmap`, understand network exposure, and optionally analyze packet-level behavior with `wireshark`. Identify potential security risks from unnecessarily exposed services.
@@ -126,8 +131,7 @@ This task successfully demonstrated:
 - `local_ip.png` – ifconfig output showing scanner’s IP.  
 - `nmap_result.png` – screenshot of Nmap scan results.  
 - `network_scan_result.txt` – full text output from Nmap.  
-- `wireshark_observation.png` – Wireshark capture with SYN filter.  
-- `README.md` – this document.
+- `wireshark_observation.png` – Wireshark capture with SYN filter.
 
 ## 📚 References
 
