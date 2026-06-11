@@ -1,4 +1,4 @@
-# 📡 Network Traffic Analysis with Wireshark - Cyber security Task 5
+# 📡 Network Traffic Analysis with Wireshark - Cyber security Internship Task 5
 
 ## 🎯 Objective  
 Analyse the packet capture `Traffic.pcapng` using Wireshark to identify network protocols, examine communication patterns, and uncover security vulnerabilities – specifically plaintext transmission of sensitive data over HTTP.
