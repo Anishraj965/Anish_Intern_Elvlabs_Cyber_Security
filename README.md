@@ -1,4 +1,11 @@
-# 🛡️ Vulnerability Assessment Report – Nessus Essentials Scan (Task 3)
+# 🛡️ Vulnerability Assessment Report – Cyber Security Internship Task 3
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-Vulnerability%20Scanning-7C3AED?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Tool-Nessus%20Essentials-22D3EE?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-crimson?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+----
 
 ## 🎯 Objective  
 Perform a basic vulnerability scan on a local machine (Kali Linux) using **Tenable Nessus Essentials**, identify common security weaknesses, and document the findings with remediation steps. Gain hands‑on experience with industry‑standard scanning tools and risk assessment.
@@ -113,7 +120,6 @@ Perform a basic vulnerability scan on a local machine (Kali Linux) using **Tenab
 - `Configuration for Scan.png` – Screenshot of Nessus scan configuration (target IP, credentials)  
 - `Final_result.png` – Final vulnerability summary for host 10.225.191.34  
 - `Observation_of_Tenable_Nessus.pdf` – PDF version of the vulnerability report  
-- `README.md` – This complete analysis report  
 - `Scanning_process.png` – Screenshot of Nessus scan in progress  
 - `Target_ip.png` – `ifconfig` output showing target IP address  
 - `Total_vulnerabilities.png` – Dashboard showing 72 total vulnerabilities  
