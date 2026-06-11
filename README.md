@@ -1,4 +1,9 @@
 # 🔒 Password Strength Evaluation and Security Practices – Cyber Security Internship Task 6
+<p align="center">
+<img src="https://img.shields.io/badge/Security-Top%20Priority-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MFA-Multi--Factor%20Authentication-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Password%20Manager-Recommended-magenta?style=for-the-badge" />
+</p>
 
 ---
 
