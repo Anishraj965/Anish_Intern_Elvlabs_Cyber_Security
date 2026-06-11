@@ -33,8 +33,6 @@
 
 Welcome! This repository documents my hands-on journey as a Cybersecurity Intern at Elevate Labs. I have successfully completed **6 practical tasks** covering network scanning, phishing analysis, vulnerability assessment, firewall configuration, traffic analysis, and password security. My final project is currently in the planning phase – a blueprint is provided below.
 
-🏅 **Best Performer Award** (Awarded by Elevate Labs for outstanding performance, dedication, and consistent delivery across all internship tasks.)
-
 ---
 
 ## 🏆 Internship Highlights
