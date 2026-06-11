@@ -132,7 +132,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 - **Hands-On Experience:** Applied cybersecurity concepts with industry-standard tools in real-world scenarios.
 - **Analytical Mindset:** Strong documentation, risk analysis, and remediation planning.
 - **Quick Learner:** Adapted to new technical challenges, including learning basic Python for upcoming project.
-- **User Education:** Advocated security best practices and awareness at every step.
+- **Education:** Advocated security best practices and awareness at every step.
 - **Ethical Approach:** Focused on responsible disclosure and legitimate testing.
 
 ---
