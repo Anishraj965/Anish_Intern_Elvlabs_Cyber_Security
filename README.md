@@ -1,5 +1,13 @@
 # 🎣 Phishing Email Analysis Report – Cyber Security Internship Task 2
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Phishing%20Analysis-Email%20Security-crimson?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Outlook-Email%20Investigation-green?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/MXToolbox-DNS%20%26%20Email%20Lookup-FF6B35?style=for-the-badge" />
+</p>
+
+----
+
 ## 🎯 Objective
 Analyze a suspected phishing email to identify spoofing indicators, authentication failures, and social engineering tactics. Learn to inspect email headers using online tools and recognize red flags that distinguish legitimate security alerts from malicious messages.
 
