@@ -1,4 +1,4 @@
-## 🔒 Password Strength Evaluation and Security Practices – Cyber Security Internship Task 6
+# 🔒 Password Strength Evaluation and Security Practices – Cyber Security Internship Task 6
 
 ---
 
