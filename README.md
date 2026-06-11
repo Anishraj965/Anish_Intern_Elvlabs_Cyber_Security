@@ -1,5 +1,12 @@
 # 🧱 UFW Firewall Configuration  – Cyber Security Internship Task 4
+<p align="center">
 
+<img src="https://img.shields.io/badge/Cybersecurity-Vulnerability%20Scanning-7C3AED?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/UFW-Network%20Firewall-royalblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-crimson?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+</p>
+----
 ## 🎯 Objective  
 Configure and test basic firewall rules using **UFW (Uncomplicated Firewall)** on Kali Linux to block insecure Telnet traffic (port 23), allow essential services (SSH, HTTP, HTTPS), and validate the filtering behaviour. Remove the test rule to restore the original state.
 
@@ -141,7 +148,6 @@ In this lab, blocking Telnet (port 23) eliminates an insecure, plain-text protoc
 - UFW_Enable_Startup.png – Systemd enable for boot startup
 - UFW_Result.png – Final ufw status verbose output
 - UFW_Testing_via_Nmap.png – Nmap scan showing port 23 filtered
-- README.md – This complete analysis report
 
 ## ✅ Conclusion
 
