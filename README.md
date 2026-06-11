@@ -1,4 +1,12 @@
 # 📡 Network Traffic Analysis with Wireshark - Cyber security Internship Task 5
+<p align="center">
+<img src="https://img.shields.io/badge/Network%20Analysis-Active-deeppink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Platform-crimson?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-blueviolet?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Protocols-6%20Detected-success?style=for-the-badge" />
+</p>
+
+---
 
 ## 🎯 Objective  
 Analyse the packet capture `Traffic.pcapng` using Wireshark to identify network protocols, examine communication patterns, and uncover security vulnerabilities – specifically plaintext transmission of sensitive data over HTTP.
@@ -213,7 +221,6 @@ Reliable transport protocol that ensures data is delivered completely and in the
 | `icmp.png` | ICMP Echo reply from 8.8.8.8 (68 packets) |
 | `ntp.png` | NTPv4 client time request (152 packets) |
 | `tcp.png` | TCP ACK packet on port 80 (1,955 packets) |
-| `README.md` | This comprehensive analysis report |
 
 ## ✅ Conclusion
 
