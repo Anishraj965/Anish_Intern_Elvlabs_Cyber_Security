@@ -1,4 +1,4 @@
-# 🧱 Firewall Configuration Report – UFW on Kali Linux (Task 4)
+# 🧱 UFW Firewall Configuration  – Cyber Security Internship Task 4
 
 ## 🎯 Objective  
 Configure and test basic firewall rules using **UFW (Uncomplicated Firewall)** on Kali Linux to block insecure Telnet traffic (port 23), allow essential services (SSH, HTTP, HTTPS), and validate the filtering behaviour. Remove the test rule to restore the original state.
