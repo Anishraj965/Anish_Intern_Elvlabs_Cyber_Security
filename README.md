@@ -132,7 +132,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Project 1: Web Vulnerability Scanner
 
-🔗 [View Branch](https://github.com/Anishraj965/Anish_Intern_Elvlabs_Cyber_Security/tree/Project-1-Web-Vulnerability-Scanner)
+🔗 [View Branch](https://github.com/Anishraj965/Anish_Intern_Elvlabs_Cyber_Security-Projects/tree/main/Anish_Intern_Elvlabs_Cyber_Security-Project-1-Web-Vulnerability-Scanner)
 🎥 [Demo Video](https://drive.google.com/file/d/1qDiHEcwk--GVCKNFeT2tCQb5pNAPYWyJ/view?usp=sharing)
 
 **Objective:** Build an automated web application security assessment platform covering the full OWASP Top 10 2021 and three major injection vulnerability classes.
@@ -153,7 +153,7 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 
 ### Project 2: Evil Legend CTI Dashboard
 
-🔗 [View Branch](https://github.com/Anishraj965/Anish_Intern_Elvlabs_Cyber_Security/tree/Project-2-CTI-Dashboard)
+🔗 [View Branch](https://github.com/Anishraj965/Anish_Intern_Elvlabs_Cyber_Security-Projects/tree/main/Anish_Intern_Elvlabs_Cyber_Security-Project-2-CTI-Dashboard)
 🎥 [Demo Video](https://drive.google.com/file/d/19iWYySFSDjom-_YFwlkK7A0ZEwjDKy1q/view?usp=sharing)
 
 **Objective:** Build a full-stack Cyber Threat Intelligence platform that aggregates IOC data from multiple threat intelligence APIs and live OSINT feeds into a unified analyst interface.
